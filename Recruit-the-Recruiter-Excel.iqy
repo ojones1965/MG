@@ -1,0 +1,16 @@
+WEB
+1
+https://usaf.dps.mil/teams/367RCGMFM/_vti_bin/owssvr.dll?XMLDATA=1&List=72700eab-153f-43b9-8845-e8a924f1aa4d&View=15DA586C-A385-487F-83A2-9432D93F1D72&RowLimit=0&RootFolder=
+
+Selection=72700eab-153f-43b9-8845-e8a924f1aa4d-15DA586C-A385-487F-83A2-9432D93F1D72
+EditWebPage=
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
+SharePointApplication=https://usaf.dps.mil/teams/367RCGMFM/_vti_bin
+SharePointListView=15DA586C-A385-487F-83A2-9432D93F1D72
+SharePointListName=72700eab-153f-43b9-8845-e8a924f1aa4d
+RootFolder=
